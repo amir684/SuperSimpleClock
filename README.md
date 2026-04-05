@@ -2,7 +2,7 @@
 
 A big-font digital clock on a 1602 LCD using an ATMEGA8 microcontroller — no I2C, no RTC module, no bootloader.
 
-![Clock Preview](images/clock.jpg)
+![Clock Preview](images/20260405_182519.jpg)
 
 ---
 
@@ -28,6 +28,16 @@ A big-font digital clock on a 1602 LCD using an ATMEGA8 microcontroller — no I
 
 > No capacitors were used on the crystal and the clock runs accurately.
 > For a final PCB product, adding 2x 22pF capacitors is recommended.
+
+---
+
+## Hardware
+
+| Front | Back |
+|-------|------|
+| ![Front](images/20260405_182519.jpg) | ![Back](images/20260405_182530.jpg) |
+
+![Wiring](images/20260405_182536.jpg)
 
 ---
 
